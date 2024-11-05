@@ -57,12 +57,6 @@ Windows Commands:
 
 - <https://github.com/KapeKaine>
 
-## Thanks;
-- Paul
-- Jahz
-& The Lord
-I hope I'm seen 
-
 ## Copyright and license
 
 Code and documentation copyright 2023-2024 the authors. Code released under the [MIT License](https://reponame/blob/master/LICENSE).

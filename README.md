@@ -8,9 +8,7 @@
   <p align="center">
   Batch Commpatible CLI For linux
     <br>
-    <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
-    ·
-    <a href="https://reponame/issues/new?template=feature.md&labels=feature">Request feature</a>
+    <a href="https://github.com/KapiKane/Batsh/issues">Report bug/Request feature</a>
   </p>
 </p>
 
@@ -31,17 +29,24 @@
 
 Some text
 
-- Instruction 1
-- Instruction 2
-- Instruction 3
+- Download CMD.sh
+- run **mv path/to/CMD.sh path/to/path/of/choice
+- run CMD.sh & pray it works :>
 
 ## Status
-
-Here goes all the budgets
+Work In Progress:
+- I am a one man bad dev
+- ***do not*** expect too much at a time
 
 ## What's included
-
-Some text
+Windows Commands:
+- ver
+- exit
+- cls
+- echo
+- assoc
+- REM
+- start
 
 ```text
 folder1/
@@ -53,31 +58,20 @@ folder1/
         ├── file3
         └── file4
 ```
-
-## Bugs and feature requests
-
-Have a bug or a feature request? Please first read the [issue guidelines](https://reponame/blob/master/CONTRIBUTING.md) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://reponame/issues/new).
-
-## Contributing
-
-Please read through our [contributing guidelines](https://reponame/blob/master/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
-
-Moreover, all HTML and CSS should conform to the [Code Guide](https://github.com/mdo/code-guide), maintained by [Main author](https://github.com/usernamemainauthor).
-
-Editor preferences are available in the [editor config](https://reponame/blob/master/.editorconfig) for easy use in common text editors. Read more and download plugins at <https://editorconfig.org/>.
-
 ## Creators
 
 **Creator 1**
 
-- <https://github.com/usernamecreator1>
+- <https://github.com/KapeKaine>
 
-## Thanks
-
-Some Text
+## Thanks;
+- Paul
+- Jahz
+& The Lord
+I hope I'm seen 
 
 ## Copyright and license
 
 Code and documentation copyright 2023-2024 the authors. Code released under the [MIT License](https://reponame/blob/master/LICENSE).
 
-Enjoy :metal:
+Enjoy ( ˶ˆᗜˆ˵ )

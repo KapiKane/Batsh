@@ -18,7 +18,6 @@
 - [Quick start](#quick-start)
 - [Status](#status)
 - [What's included](#whats-included)
-- [Bugs and feature requests](#bugs-and-feature-requests)
 - [Contributing](#contributing)
 - [Creators](#creators)
 - [Thanks](#thanks)
@@ -27,8 +26,7 @@
 
 ## Quick start
 
-Some text
-
+Directions:
 - Download CMD.sh
 - run **mv path/to/CMD.sh path/to/path/of/choice
 - run CMD.sh & pray it works :>
@@ -48,16 +46,8 @@ Windows Commands:
 - REM
 - start
 
-```text
-folder1/
-└── folder2/
-    ├── folder3/
-    │   ├── file1
-    │   └── file2
-    └── folder4/
-        ├── file3
-        └── file4
-```
+<img src="https://github.com/KapiKane/Batsh/blob/Images/Screenshot_20241105_042955-1.png" alt="Preview">
+
 ## Creators
 
 **Creator 1**

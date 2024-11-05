@@ -46,6 +46,7 @@ Windows Commands:
 - REM
 - start
 
+#Preview
 <img src="https://github.com/KapiKane/Batsh/blob/Images/Screenshot_20241105_042955-1.png" alt="Preview">
 
 ## Creators

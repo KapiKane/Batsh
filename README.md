@@ -18,9 +18,7 @@
 - [Quick start](#quick-start)
 - [Status](#status)
 - [What's included](#whats-included)
-- [Contributing](#contributing)
 - [Creators](#creators)
-- [Thanks](#thanks)
 - [Copyright and license](#copyright-and-license)
 
 
@@ -28,7 +26,8 @@
 
 Directions:
 - Download CMD.sh
-- run **mv path/to/CMD.sh path/to/path/of/choice
+- run **chmod +x CMD.sh**
+- run **mv path/to/CMD.sh $PATH/to/path/of/choice**
 - run CMD.sh & pray it works :>
 
 ## Status

@@ -47,7 +47,9 @@ Windows Commands:
 - start
 
 ## Preview
-<img src="https://github.com/KapiKane/Batsh/blob/Images/Screenshot_20241105_042955-1.png" alt="Preview">
+<img src="https://github.com/KapiKane/Batsh/blob/Images/Screenshot_20241105_042955-1.png" alt="Preview1">
+<img src="https://github.com/KapiKane/Batsh/blob/main/Screenshot_20241105_044136.png" alt="Preview1">
+<img src="https://github.com/KapiKane/Batsh/blob/main/Screenshot_20241105_044714.png" alt="Preview1">
 
 ## Creators
 

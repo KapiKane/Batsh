@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://example.com/">
-    <img src="https://via.placeholder.com/72" alt="Logo" width=500 height=500>
+    <img src="https://via.placeholder.com/500" alt="Logo" width=500 height=500>
   </a>
 
   <h3 align="center">Batsh</h3>

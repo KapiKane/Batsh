@@ -1,6 +1,6 @@
 <p align="center">
   <a>
-    <img src="[https://via.placeholder.com/500](https://github.com/KapiKane/Batsh/blob/main/Retropix.png?raw=true)" alt="Logo" width=500 height=500>
+    <img src="https://github.com/KapiKane/Batsh/blob/main/Retropix.png?raw=true" alt="Logo" width=500 height=500>
   </a>
 
   <h3 align="center">Batsh</h3>

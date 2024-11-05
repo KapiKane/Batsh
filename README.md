@@ -6,7 +6,7 @@
   <h3 align="center">Batsh</h3>
 
   <p align="center">
-    Short description
+  Batch Commpatible CLI For linux
     <br>
     <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
     ·

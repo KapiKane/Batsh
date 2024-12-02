@@ -1,3 +1,5 @@
+# SHITS BEING REWROTTEN CUZ I REALIZED ITS KINDA WEIRD ;-; LOL
+
 <p align="center">
   <a>
     <img src="https://github.com/KapiKane/Batsh/blob/main/Retropix.png?raw=true" alt="Logo" width=500 height=500>

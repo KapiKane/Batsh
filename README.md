@@ -1,67 +1,57 @@
 # SHITS BEING REWROTTEN CUZ I REALIZED ITS KINDA WEIRD ;-; LOL
 
-<p align="center">
-  <a>
-    <img src="https://github.com/KapiKane/Batsh/blob/main/Images/Retropix.png?raw=true" alt="Logo" width=500 height=500>
-  </a>
+<div align="center">
+    <img src="https://github.com/KapiKane/Batsh/blob/main/Images/Retropix.png?raw=true" alt="Logo" width="500" height="500">
 
-  <h3 align="center">Communix</h3>
+Batch & Bash, The Bastered Child
+  
+## Communix
 
-  <p align="center">
-  Batch Commpatible CLI For linux
-    <br>
-    <a href="https://github.com/KapiKane/Batsh/issues">Report bug/Request feature</a>
-  </p>
-</p>
+![Update](https://img.shields.io/badge/Current_Update-2.0:_Taho-red)
+![Production](https://img.shields.io/badge/Maintainous-Activish-blue)
+![License](https://img.shields.io/badge/License-Attribution--NonCommercial_4.0_International-blue)
 
+</div>
+Desc: I HAVE GOTTEN BORED, 5 SCORE AGO & thought "Hol' up, hear me out yall, translation layer for Linux... BUT FOR BATCH" yeah yall... CLAP NOW >:< 👏 👏 👏 but now Im making it, its just a small little Winux thing ^^
+                                                                                                                                                       
+## Table Of Contents
+1. Installing
+2. Bugs or Features?
+3. Limitations
+4. Basic Commands
+5. Features
+6. Creator(s)
+7. Lisense
 
-## Table of contents
+## Installing
+Download install.sh & run this
+```
+chmod +x ./install.sh && ./install.sh
+```
+## Bugs or Features?
+Visit [here]([www.example.com](https://github.com/KapiKane/Batsh/issues)) to report bugs or suggest features
 
-- [Quick start](#quick-start)
-- [Status](#status)
-- [What's included](#whats-included)
-- [Creators](#creators)
-- [Copyright and license](#copyright-and-license)
+## Limitations
+<div align="center">
+- No "C:", use "$C"
+</div>
 
+## Commands
+1. Starting communix
+```
+cmd
+```
+2. display message
+```
+echo...
+```
+3. list
+```
+dir...
+```
 
-## Quick start
+## Creator(s)
+- Kapikaine
 
-Directions:
-- Download CMD.sh
-- run **chmod +x CMD.sh**
-- run **mv path/to/CMD.sh $PATH/to/path/of/choice**
-- run CMD.sh & pray it works :>
-
-## Status
-Work In Progress:
-- I am a one man bad dev
-- ***do not*** expect too much at a time
-
-## What's included
-- ver
-- exit
-- cls
-- echo
-- assoc
-- REM
-- start
-
-## LIMITATION NOTES:
-- No "C:" because SOMEONE doesnt seem to like them, instead use "$C" \(>^<)/
-
-## Preview
-<img src="https://github.com/KapiKane/Batsh/blob/Images/Screenshot_20241105_042955-1.png" alt="Preview1">
-<img src="https://github.com/KapiKane/Batsh/blob/main/Screenshot_20241105_044136.png" alt="Preview1">
-<img src="https://github.com/KapiKane/Batsh/blob/main/Screenshot_20241105_044714.png" alt="Preview1">
-
-## Creators
-
-**Creator 1**
-
-- <https://github.com/KapeKaine>
-
-## Copyright and license
-
-Code and documentation copyright 2023-2024 the authors. Code released under the [MIT License](https://reponame/blob/master/LICENSE).
-
-Enjoy ( ˶ˆᗜˆ˵ )
+## License
+https://creativecommons.org/licenses/by-nc/4.0/deed.en

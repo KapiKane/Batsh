@@ -38,7 +38,6 @@ Work In Progress:
 - ***do not*** expect too much at a time
 
 ## What's included
-Windows Commands:
 - ver
 - exit
 - cls
@@ -46,6 +45,9 @@ Windows Commands:
 - assoc
 - REM
 - start
+
+## LIMITATION NOTES:
+- No "C:" because SOMEONE doesnt seem to like them, instead use "C" \(>^<)/
 
 ## Preview
 <img src="https://github.com/KapiKane/Batsh/blob/Images/Screenshot_20241105_042955-1.png" alt="Preview1">

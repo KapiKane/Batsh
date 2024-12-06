@@ -31,10 +31,11 @@ chmod +x ./install.sh && ./install.sh
 ## Bugs or Features?
 Visit [here]([www.example.com](https://github.com/KapiKane/Batsh/issues)) to report bugs or suggest features
 
+</div>
+
 ## Limitations
 <div align="center">
 - No "C:", use "#C"
-</div>
 
 ## Commands
 1. Starting communix

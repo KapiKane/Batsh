@@ -1,9 +1,9 @@
 <div align="center">
-    <img src="https://static.vecteezy.com/system/resources/previews/019/518/340/large_2x/preview-image-icon-for-your-website-mobile-presentation-and-logo-design-free-vector.jpg" alt="Logo" width="250" height="250">
+    <img src="https://github.com/KapiKane/Batsh/blob/main/Images/Retropix.png?raw=true" alt="Logo" width="250" height="250">
 
-Aliquam enim erat, porta at neque ut.
+Batch & Bash, The Bastered Child
   
-## Name Here
+## Communix
 
 ![Default](https://img.shields.io/badge/Hello,_World!-Second_Line-blue)
 

@@ -33,7 +33,7 @@ Visit [here]([www.example.com](https://github.com/KapiKane/Batsh/issues)) to rep
 
 ## Limitations
 <div align="center">
-- No "C:", use "$C"
+- No "C:", use "#C"
 </div>
 
 ## Commands

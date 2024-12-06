@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/KapiKane/Batsh/blob/main/Images/Retropix.png?raw=true" alt="Logo" width="250" height="250">
+    <img src="https://github.com/KapiKane/Batsh/blob/main/Images/Retropix.png?raw=true" alt="Logo" width="500" height="500">
 
 Batch & Bash, The Bastered Child
   

@@ -47,7 +47,7 @@ Work In Progress:
 - start
 
 ## LIMITATION NOTES:
-- No "C:" because SOMEONE doesnt seem to like them, instead use "C" \(>^<)/
+- No "C:" because SOMEONE doesnt seem to like them, instead use "$C" \(>^<)/
 
 ## Preview
 <img src="https://github.com/KapiKane/Batsh/blob/Images/Screenshot_20241105_042955-1.png" alt="Preview1">

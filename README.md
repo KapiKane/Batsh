@@ -1,5 +1,3 @@
-# SHITS BEING REWROTTEN CUZ I REALIZED ITS KINDA WEIRD ;-; LOL
-
 <div align="center">
     <img src="https://github.com/KapiKane/Batsh/blob/main/Images/Retropix.png?raw=true" alt="Logo" width="500" height="500">
 
@@ -31,11 +29,8 @@ chmod +x ./install.sh && ./install.sh
 ## Bugs or Features?
 Visit [here]([www.example.com](https://github.com/KapiKane/Batsh/issues)) to report bugs or suggest features
 
-</div>
-
 ## Limitations
-<div align="center">
-- No "C:", use "#C"
+- No "C:", use "%C"
 
 ## Commands
 1. Starting communix

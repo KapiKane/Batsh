@@ -5,7 +5,7 @@
     <img src="https://github.com/KapiKane/Batsh/blob/main/Images/Retropix.png?raw=true" alt="Logo" width=500 height=500>
   </a>
 
-  <h3 align="center">Batsh (Pronounced: Bah*t'sh or /[bæ][t̆][tʃ:]/)</h3>
+  <h3 align="center">Communix</h3>
 
   <p align="center">
   Batch Commpatible CLI For linux
